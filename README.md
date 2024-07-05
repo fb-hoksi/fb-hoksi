@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @fb-hoksi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hello, I'm hoksi! 👋
 
-<!---
-fb-hoksi/fb-hoksi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding, problem-solving, and learning new technologies. Here's a bit about me:
+
+## About Me
+
+- 🔭 Currently working on: Forbizkorea
+- 🌱 Currently learning: AI
+- 💼 Open to job opportunities: Developer
+- 📫 How to reach me: hoksi@forbiz.co.kr
+
+## My Skills
+
+- **Programming Languages**: JavaScript, HTML5, CSS3, PHP
+- **Frameworks & Libraries**: Codeigniter
+- **Tools & Platforms**: AWS, PHPstorm
